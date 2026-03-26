@@ -1,4 +1,4 @@
-# Muhammad Cheema Instructional Design Portfolio
+# Instructional Design Portfolio
 
 Welcome! This site hosts interactive e-learning modules built with **Articulate Storyline 360**.
 
