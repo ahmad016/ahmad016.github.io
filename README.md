@@ -1,4 +1,6 @@
-# Instructional Design Portfolio
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e391343-f61b-4b6f-b1b8-a899134b1549" width="700">
+</p>
 
 Welcome! This site hosts interactive e-learning modules built with **Articulate Storyline 360**.
 
