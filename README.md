@@ -11,6 +11,13 @@ An interactive training experience introducing identity security concepts and be
 
 [Launch the module here](https://ahmad016.github.io/Atomic%20Data%20Consulting%20Project/story.html)
 
+<p align="center">
+  <a href="https://ahmad016.github.io/Atomic%20Data%20Consulting%20Project/story.html">
+    <img src="https://github.com/user-attachments/assets/7461982b-4c2e-4797-968b-5ba58e3f86e2" width="700">
+  </a>
+</p>
+
+
 ---
 
 ## About This Portfolio
