@@ -19,18 +19,11 @@ An interactive training experience introducing identity security concepts and be
   </a>
 </p>
 
-### How to Send an Email — Rise 360 Course
-
-A guided course on composing and sending an effective email in Microsoft Outlook.
-
-[Launch the course here](https://ahmad016.github.io/How%20to%20Send%20an%20Email/content/index.html)
-
-
 ---
 
 ## About This Portfolio
 
-This repository contains browser-ready Storyline and Rise exports.  
+This repository contains browser-ready e-learning projects.  
 
 Each project is designed to demonstrate:
 
@@ -40,6 +33,8 @@ Each project is designed to demonstrate:
 - learner-friendly navigation
 
 More modules will be added over time.
+
+Some portfolio pieces are private because they were developed for current or previous employers. If you are interested in seeing additional work, please contact [m.cheema.inquire@gmail.com](mailto:m.cheema.inquire@gmail.com).
 
 ---
 
