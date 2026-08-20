@@ -23,7 +23,7 @@ An interactive training experience introducing identity security concepts and be
 
 ## About This Portfolio
 
-This repository contains browser-ready e-learning projects.  
+This repository contains browser-ready e-learning projects created with **Articulate Storyline 360** and **Articulate Rise 360**.  
 
 Each project is designed to demonstrate:
 
